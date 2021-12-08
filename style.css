@@ -75,6 +75,9 @@ ul li a.active {
   nav ul li {
     margin-top: 30px;
   }
+  ul li a {
+    color: white;
+  }
   ul li a:hover,
   ul li a.active {
     color: cyan;
